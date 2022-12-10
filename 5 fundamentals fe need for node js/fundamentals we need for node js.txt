@@ -1,0 +1,5 @@
+5th – fundamentals we need for node js
+•	JavaScript fundamentals for node js.
+•	Conditions, loops and arrays.
+•	The important function and variables from another file.
+•	Try filter function on an array of numbers.

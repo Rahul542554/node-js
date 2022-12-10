@@ -1,0 +1,13 @@
+Nodemon|timesaving Package 
+
+•	What is nodemon?
+Nodemon is a popular tool that is used for the development of applications based on node. js. It simply restarts the node application whenever it observes the changes in the file present in the working directory of your project.
+•	How to install it?
+just write npm I nodemon in terminal.
+•	How to use it?
+write like given below in package.json file where you will find “scripts” and then do it.
+•	"scripts": {
+•	    "start": "nodemon index.js"
+•	  },
+And then type npm start in your terminal.
+Note: if you have installed nodemon globally then to run your file just type nodemon index.js (nodemon filename.js) in your terminal.

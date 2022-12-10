@@ -1,0 +1,5 @@
+2nd – What developers make with node js?
+•	Developer make api with node js.
+•	We can connect server with client side.
+•	Node can make api for web, android and iOS etc.
+•	Node can also make websites.

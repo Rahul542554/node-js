@@ -1,0 +1,28 @@
+1St- What is Node JS
+•	Node is not a language.
+•	Node is a server-side environment.
+•	Node JS can connect with database.
+•	Code and syntax very similar to JavaScript but not exactly the same.
+•	Node is free and open-source.
+•	Node JS use chrome’s v8 engine to execute code.
+
+Why do we use Node
+•	Node js is mostly used for API.
+•	So, we can connect the same database with web App, Mobile app.
+•	Node is easy to understand who knows JavaScript.
+•	Node is super-fast for APIs.
+•	With node and JavaScript, you can become full stack developer.
+
+
+JavaScript and node are the same?
+•	JavaScript and node js code syntax is same.
+•	If you know JavaScript you can easily understand node.
+•	But both are not exactly the same.
+•	You cannot connect JavaScript with database.
+•	Node can connect with database.
+•	Node js run on the server side.
+•	JavaScript runs on the browser.
+
+Why you should learn Node?
+•	If you’re JavaScript developer then you can easily learn node.
+•	You can become a full stack developer.

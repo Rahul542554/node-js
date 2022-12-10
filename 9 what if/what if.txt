@@ -1,0 +1,11 @@
+what if?
+
+•	what if node modules folder deleted by any chance?
+to recover it just type npm init in your terminal for already made modules.it will recover all your dependencies.
+•	Do not ever delete your package.json file otherwise you will not able to recover your dependencies or modules. 
+•	Don’t ever push node Modules folder to your repository.
+•	 To ignore node modules or any other files from pushing just make a file called .gitignore
+And then write the folder or file name in gitignore file. Example given below. 
+/node_modules
+
+
